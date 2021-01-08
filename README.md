@@ -8,3 +8,5 @@ node app.js
 node app.js foo bar
 ```
 
+![screenshot of yargs](screenshot.png)
+
